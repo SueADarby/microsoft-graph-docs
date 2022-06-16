@@ -1,6 +1,6 @@
 ---
 title: "directoryObject: validateProperties"
-description: "Validate that a Microsoft 365 group's display name or mail nickname complies with naming policies."
+description: "Discusses how to validate that a Microsoft 365 group's display name or mail nickname complies with naming policies."
 ms.localizationpriority: medium
 author: "keylimesoda"
 ms.prod: "directory-management"

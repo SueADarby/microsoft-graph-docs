@@ -1,6 +1,6 @@
 ---
 title: "List borders"
-description: "Retrieve a list of rangeborder objects."
+description: "Discusses how to retrieve a list of List borders objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

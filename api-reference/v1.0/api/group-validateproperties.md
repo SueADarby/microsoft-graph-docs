@@ -1,6 +1,6 @@
 ---
 title: "group: validateProperties"
-description: "Validate that a Microsoft 365 group's display name or mail nickname complies with naming policies."
+description: "Describes how to validate that a Microsoft 365 group's display name or mail nickname complies with naming policies."
 ms.localizationpriority: medium
 author: "psaffaie"
 ms.prod: "groups"
