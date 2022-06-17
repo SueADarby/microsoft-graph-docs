@@ -1,6 +1,6 @@
 ---
 title: "Range: BoundingRect"
-description: "Discusses the permissions, HTTP request, request headers, request body, response for Range: BoundingRect."
+description: "Describes the permissions, HTTP request, request headers, request body, response for Range: BoundingRect."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

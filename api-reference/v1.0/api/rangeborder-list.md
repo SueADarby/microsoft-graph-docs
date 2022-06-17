@@ -1,6 +1,6 @@
 ---
 title: "List RangeBorderCollection"
-description: "Discusses how to retrieve a list of rangeRangeBorderCollectionborder objects."
+description: "Describes how to retrieve a list of rangeRangeBorderCollectionborder objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

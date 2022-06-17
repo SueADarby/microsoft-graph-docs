@@ -1,6 +1,6 @@
 ---
 title: "List ChartCollection"
-description: "Discusses how to retrieve a list of chart objects."
+description: "Describes how to retrieve a list of chart objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

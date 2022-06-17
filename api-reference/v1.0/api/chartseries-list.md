@@ -1,6 +1,6 @@
 ---
 title: "List ChartSeriesCollection"
-description: "Describes how to retrieve a list of chartseries objects."
+description: "Describes how to retrieve a list of ChartSeriesCollection objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

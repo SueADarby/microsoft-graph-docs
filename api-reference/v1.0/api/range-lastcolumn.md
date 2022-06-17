@@ -1,6 +1,6 @@
 ---
 title: "Range: LastColumn"
-description: "Discusses the permissions, HTTP request, request headers, request body, and response for Range: LastColumn."
+description: "Describes the permissions, HTTP request, request headers, request body, and response for Range: LastColumn."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

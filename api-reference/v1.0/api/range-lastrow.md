@@ -1,6 +1,6 @@
 ---
 title: "Range: LastRow"
-description: "Discusses the permissions, HTTP request, request headers, request body, and response for Range: LastRow."
+description: "Describes the permissions, HTTP request, request headers, request body, and response for Range: LastRow."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

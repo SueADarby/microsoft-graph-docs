@@ -1,6 +1,6 @@
 ---
 title: "RangeSort: apply"
-description: "Discusses the permissions, HTTP request, request headers, request body, and response for Range: apply."
+description: "Describes the permissions, HTTP request, request headers, request body, and response or the rangeSort: reply method"
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
