@@ -1,6 +1,6 @@
 ---
 title: "Update user"
-description: "Describes how to update the properties of a user object."
+description: "Describes how to update the properties of a user object based on permissions."
 author: "jpettere"
 ms.localizationpriority: high
 ms.prod: "users"
