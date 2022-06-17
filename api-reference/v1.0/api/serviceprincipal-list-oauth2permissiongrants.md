@@ -1,5 +1,5 @@
 ---
-title: "List oauth2PermissionGrants"
+title: "List of oauth2PermissionGrants"
 description: "Describes how to retrieve a list of oAuth2PermissionGrant objects, representing delegated permission granted access to the API."
 ms.localizationpriority: high
 doc_type: apiPageType
@@ -7,7 +7,7 @@ ms.prod: "applications"
 author: "sureshja"
 ---
 
-# List of oauth2PermissionGrants
+# Lists oauth2PermissionGrants
 
 Namespace: microsoft.graph
 
