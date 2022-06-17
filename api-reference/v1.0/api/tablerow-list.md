@@ -1,6 +1,6 @@
 ---
 title: "List TableRowCollection"
-description: "Retrieve a list of tablerow objects."
+description: "Describes how to retrieve a list of TableRowCollection objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

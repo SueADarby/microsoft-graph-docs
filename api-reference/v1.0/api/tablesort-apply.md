@@ -1,6 +1,6 @@
 ---
 title: "TableSort: apply"
-description: "Perform a sort operation."
+description: "Describes how to perform a sort operation."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

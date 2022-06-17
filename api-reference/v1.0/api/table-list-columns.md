@@ -1,6 +1,6 @@
 ---
 title: "List columns"
-description: "Retrieve a list of tablecolumn objects."
+description: "Describes how to retrieve a list of tablecolumn objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

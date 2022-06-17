@@ -3,7 +3,7 @@ author: JeremyKelley
 title: Get a SharePoint Site
 ms.localizationpriority: high
 ms.prod: "sharepoint"
-description: "Retrieve properties and relationships for a site resource."
+description: "Describes how to retrieve properties and relationships for a team site resource."
 doc_type: apiPageType
 ---
 # Get a site resource

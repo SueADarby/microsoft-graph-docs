@@ -4,7 +4,7 @@ ms.date: 09/10/2017
 title: Get SharePoint site by path
 ms.localizationpriority: medium
 ms.prod: "sharepoint"
-description: "Retrieve properties and relationships for a site resource."
+description: "Describes how to retrieve properties and relationships for a site resource."
 doc_type: apiPageType
 ---
 # Get a site resource by path
