@@ -7,7 +7,7 @@ ms.prod: "applications"
 author: "sureshja"
 ---
 
-# List oauth2PermissionGrants
+# List of oauth2PermissionGrants
 
 Namespace: microsoft.graph
 

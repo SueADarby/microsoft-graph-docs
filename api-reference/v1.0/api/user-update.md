@@ -7,7 +7,7 @@ ms.prod: "users"
 doc_type: apiPageType
 ---
 
-# Update users
+# Update user properties
 
 Namespace: microsoft.graph
 
