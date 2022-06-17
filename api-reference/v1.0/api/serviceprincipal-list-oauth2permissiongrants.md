@@ -1,6 +1,6 @@
 ---
 title: "List oauth2PermissionGrants"
-description: "Describes how to retrieve a list of oAuth2PermissionGrant objects, representing delegated permission grants."
+description: "Describes how to retrieve a list of oAuth2PermissionGrant objects, representing delegated permission granted access to the API."
 ms.localizationpriority: high
 doc_type: apiPageType
 ms.prod: "applications"
